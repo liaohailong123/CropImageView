@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.liaohailong.library">
+
+    <application>
+        <!-- 另启进程，享用更多内存，异常崩溃不影响主进程 -->
+        <activity
+            android:name=".CropImageActivity"
+            android:process=":lhl_crop_image"
+            android:screenOrientation="portrait"
+            android:theme="@style/CropImageTheme">
+
+            <intent-filter>
+                <action android:name="org.liaohailong.crop" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

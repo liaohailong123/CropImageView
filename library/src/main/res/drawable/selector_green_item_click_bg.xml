@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <ripple android:color="#F2F2F2">
+            <item android:drawable="@drawable/shape_round_rect_green" />
+        </ripple>
+    </item>
+</selector>
