@@ -12,7 +12,6 @@
             <intent-filter>
                 <action android:name="org.liaohailong.view.crop" />
                 <category android:name="android.intent.category.DEFAULT" />
-                <data android:scheme="lhl"/>
             </intent-filter>
         </activity>
     </application>
