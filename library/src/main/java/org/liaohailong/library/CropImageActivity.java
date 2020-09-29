@@ -36,6 +36,7 @@ public class CropImageActivity extends AppCompatActivity {
         Intent intent = new Intent();
         intent.setAction("org.liaohailong.crop");
         intent.addCategory("android.intent.category.DEFAULT");
+        intent.setData(Uri.parse("lhl:cropImageActivity"));
         intent.putExtra(KEY_OPTIONS, options);
         activity.startActivityForResult(intent, requestCode);
     }
@@ -44,6 +45,7 @@ public class CropImageActivity extends AppCompatActivity {
         Intent intent = new Intent();
         intent.setAction("org.liaohailong.crop");
         intent.addCategory("android.intent.category.DEFAULT");
+        intent.setData(Uri.parse("lhl:cropImageActivity"));
         intent.putExtra(KEY_OPTIONS, options);
         fragment.startActivityForResult(intent, requestCode);
     }
