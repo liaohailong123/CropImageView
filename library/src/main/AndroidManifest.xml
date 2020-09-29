@@ -10,7 +10,7 @@
             android:theme="@style/CropImageTheme">
 
             <intent-filter>
-                <action android:name="org.liaohailong.crop" />
+                <action android:name="org.liaohailong.view.crop" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <data android:scheme="lhl"/>
             </intent-filter>

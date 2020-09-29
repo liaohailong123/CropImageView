@@ -33,19 +33,19 @@ public class CropImageActivity extends AppCompatActivity {
     private static final String KEY_OPTIONS = "KEY_OPTIONS";
 
     public static void showForResult(@NonNull Activity activity, @NonNull CropOptions options, int requestCode) {
-        Intent intent = new Intent(activity,CropImageActivity.class);
-//        intent.setAction("org.liaohailong.crop");
-//        intent.addCategory("android.intent.category.DEFAULT");
-//        intent.setData(Uri.parse("lhl:cropImageActivity"));
+        Intent intent = new Intent();
+        intent.setAction("org.liaohailong.view.crop");
+        intent.addCategory("android.intent.category.DEFAULT");
+        intent.setData(Uri.parse("lhl:cropImageActivity"));
         intent.putExtra(KEY_OPTIONS, options);
         activity.startActivityForResult(intent, requestCode);
     }
 
     public static void showForResult(@NonNull Fragment fragment, @NonNull CropOptions options, int requestCode) {
-        Intent intent = new Intent(fragment.getContext(),CropImageActivity.class);
-//        intent.setAction("org.liaohailong.crop");
-//        intent.addCategory("android.intent.category.DEFAULT");
-//        intent.setData(Uri.parse("lhl:cropImageActivity"));
+        Intent intent = new Intent();
+        intent.setAction("org.liaohailong.view.crop");
+        intent.addCategory("android.intent.category.DEFAULT");
+        intent.setData(Uri.parse("lhl:cropImageActivity"));
         intent.putExtra(KEY_OPTIONS, options);
         fragment.startActivityForResult(intent, requestCode);
     }
