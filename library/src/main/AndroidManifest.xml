@@ -5,7 +5,7 @@
         <!-- 另启进程，享用更多内存，异常崩溃不影响主进程 -->
         <activity
             android:name=".CropImageActivity"
-
+            android:process=":lhl_crop_image"
             android:screenOrientation="portrait"
             android:theme="@style/CropImageTheme">
 
