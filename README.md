@@ -4,10 +4,14 @@
 图片裁剪成正方形
 
 <img src="https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif1.gif" alt="image" width="224px">
+<img src="https://gitee.com/liaohailong190/victor-library/blob/master/app/src/main/assets/gif1.gif" alt="image" width="224px">
 
 图片裁剪成长方形
 
 <img src="https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif2.gif" alt="image" width="224px">
+<img src="https://gitee.com/liaohailong190/victor-library/blob/master/app/src/main/assets/gif2.gif" alt="image" width="224px">
+
+
 
 在Activity中调用以下代码，调起图片裁剪界面
 ```kotlin
