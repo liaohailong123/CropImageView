@@ -9,6 +9,10 @@
 
 <img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/TmEUgtj9EK6.7V8ajmQrEJ7C4rpyClHjBEWEeVp4IuQV3h*Lt1S.4C1p17FCKDxEtlvla0lYLHsMCNKiT5Ur15p9uhPWRnEaxJvjQVjYG.8!/b&bo=fAf9AwAAAAADJ4c!&rf=viewer_4" alt="image">
 
+图片裁剪成长方形
+
+<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/bqQfVz5yrrGYSXMvKr.cqcUBu5J.foI92PW8*2knXoO6SP*b9KOoBiDGurI28MNet6OlqVNDyiBI0FQG8OTHvRZVzOn76HjTDQKOTEMZbwM!/b&bo=4ADgAQAAAAACByI!&rf=viewer_4" alt="image" width="224px">
+
 在Activity中调用以下代码，调起图片裁剪界面
 ```kotlin
     val uri = Uri.fromFile(this) // 资源图片uri
