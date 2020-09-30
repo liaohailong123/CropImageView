@@ -1,6 +1,10 @@
 # CropImageView
 仿微信图片裁剪功能，支持对图片两指缩放，旋转
 
+下载aar包，项目依赖比较快：https://github.com/liaohailong190/CropImageView/tree/master/aar
+
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/intro.png" alt="image">
+
 图片裁剪成正方形
 
 <img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif1.gif" alt="image" width="224px">
