@@ -1,7 +1,7 @@
 # CropImageView
 仿微信图片裁剪功能
 
-![image](https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/shot1.jpg)
+<img src="https://github.com/liaohailong190/CropImageView/raw/master/app/src/main/assets/shot1.jpg" alt="image" style="max-width:448px;">
 
 ![image](https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif1.gif)
 
