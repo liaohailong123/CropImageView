@@ -1,8 +1,10 @@
 # CropImageView
-仿微信图片裁剪功能
+<h1>仿微信图片裁剪功能，支持对图片两指缩放，旋转<h1>
 
+<p>图片裁剪成正方形</p>
 <img src="https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif1.gif" alt="image" width="224px">
-<img src="https://github.com/liaohailong190/CropImageView/raw/master/app/src/main/assets/shot1.jpg" alt="image" width="224px">
+
+<p>图片裁剪成长方形</p>
 <img src="https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif2.gif" alt="image" width="224px">
 
 在Activity中调用以下代码，调起图片裁剪界面
