@@ -11,7 +11,7 @@
 
 使用方式：下载aar包，项目依赖比较快：https://github.com/liaohailong190/CropImageView/tree/master/aar
 
-<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/intro.png" alt="image">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/intro.png" alt="github的地址看不到？，科学上网试试看">
 
 在Activity中调用以下代码，调起图片裁剪界面
 ```kotlin
