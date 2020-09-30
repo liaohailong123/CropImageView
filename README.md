@@ -3,7 +3,7 @@
 
 图片裁剪成正方形
 
-<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif1.gif" alt="科学上网" width="224px">
+<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/TmEUgtj9EK6.7V8ajmQrEL.NpfaRLNczuEY*iFVPVbUrI4JKFOWDSs7A.U.LgWs1bKeAwCfAvi44CfXRuxGy7p5d3bupPq9md*uQmzKHjgQ!/b&bo=wAHAAwAAAAACh6E!&rf=viewer_4" alt="科学上网" width="224px">
 
 图片裁剪成长方形
 
