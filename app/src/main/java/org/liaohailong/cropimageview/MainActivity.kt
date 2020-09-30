@@ -77,10 +77,11 @@ class MainActivity : FragmentActivity() {
                             else -> 1.0f
                         }
                         dialog.dismiss()
-                        val uri = Uri.fromFile(this)
-                        val output = Uri.fromFile(generateImageFile())
-                        val width = resources.displayMetrics.widthPixels
-                        val height = (width * cropRatio).toInt()
+                        val uri = Uri.fromFile(this) // 资源图片uri
+                        val output = Uri.fromFile(generateImageFile()) // 输出图片uri
+                        val width = resources.displayMetrics.widthPixels // 输出宽度 px
+                        val height = (width * cropRatio).toInt() // 输出高度 px
+                        // 裁剪的宽高比例，通过width和height来控制->width/height
                         val options: CropOptions = CropOptions.Factory.create(
                             uri,
                             output,
