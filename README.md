@@ -1,7 +1,9 @@
 # CropImageView
 仿微信图片裁剪功能
 
-<img src="https://github.com/liaohailong190/CropImageView/raw/master/app/src/main/assets/shot1.jpg" alt="image" width="224px"><img src="https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif1.gif" alt="image" width="224px"><img src="https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif2.gif" alt="image" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif1.gif" alt="image" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/raw/master/app/src/main/assets/shot1.jpg" alt="image" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/app/src/main/assets/gif2.gif" alt="image" width="224px">
 
 在Activity中调用以下代码，调起图片裁剪界面
 
