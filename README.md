@@ -3,11 +3,11 @@
 
 图片裁剪成正方形
 
-<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif1.gif" alt="image" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif1.gif" alt="github的地址看不到？，科学上网试试看" width="224px">
 
 图片裁剪成长方形
 
-<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif2.gif" alt="image" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif2.gif" alt="github的地址看不到？，科学上网试试看" width="224px">
 
 使用方式：下载aar包，项目依赖比较快：https://github.com/liaohailong190/CropImageView/tree/master/aar
 
