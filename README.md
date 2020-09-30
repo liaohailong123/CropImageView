@@ -27,7 +27,7 @@
 ```
                         
 在调起的Activitiy中复写onActivityResult函数，获取裁剪返回值
-
+```kotlin
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
 
@@ -42,3 +42,4 @@
             }
         }
     }
+```
