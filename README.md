@@ -3,11 +3,11 @@
 
 图片裁剪成正方形
 
-<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/TmEUgtj9EK6.7V8ajmQrEL.NpfaRLNczuEY*iFVPVbUrI4JKFOWDSs7A.U.LgWs1bKeAwCfAvi44CfXRuxGy7p5d3bupPq9md*uQmzKHjgQ!/b&bo=wAHAAwAAAAACh6E!&rf=viewer_4" alt="科学上网" width="224px">
+<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/TmEUgtj9EK6.7V8ajmQrEH8k8807nabW0E2gxyXgJW3R0AdnuV1d1YZykO5oCu08LAj1M5nedGzSta6PHY9tQefi3l3DQfUEVigiGE2ypQ0!/b&bo=4ADgAQAAAAACZ0I!&rf=viewer_4" alt="科学上网" width="224px">
 
 图片裁剪成长方形
 
-<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/TmEUgtj9EK6.7V8ajmQrEAQ7fgMFjKPlNPcbz6HznumnngiM7eU3QKPLQRuAkWtDRjb*sYm48i1Rd1.pHumrS8U.mktJ7Lg85cZkavgQn7Y!/b&bo=wAHAAwAAAAACl7E!&rf=viewer_4" alt="科学上网" width="224px">
+<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/TmEUgtj9EK6.7V8ajmQrEJAmE.MYrVze7pd39dLmAlimA48Rja.S8z.ysHneoAi6BuYesdsMbR7v*9.*fgS*yQURVDfZoOD3vg13W33z1IY!/b&bo=4ADgAQAAAAACh6I!&rf=viewer_4" alt="科学上网" width="224px">
 
 使用方式：下载aar包，项目依赖比较快：https://github.com/liaohailong190/CropImageView/tree/master/aar
 
