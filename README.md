@@ -3,15 +3,15 @@
 
 图片裁剪成正方形
 
-<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif1.gif" alt="科学上网 或 Github 加速器" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/example01.gif" alt="科学上网 或 Github 加速器" width="224px">
 
 图片裁剪成长方形
 
-<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif2.gif" alt="科学上网 或 Github 加速器" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/example02.gif" alt="科学上网 或 Github 加速器" width="224px">
 
 使用方式：下载aar包，项目依赖比较快：https://github.com/liaohailong190/CropImageView/tree/master/aar
 
-<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/intro.png" alt="科学上网 或 Github 加速器">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/example03.png" alt="科学上网 或 Github 加速器">
 
 在Activity中调用以下代码，调起图片裁剪界面
 ```kotlin
