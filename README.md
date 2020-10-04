@@ -3,15 +3,15 @@
 
 图片裁剪成正方形
 
-<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/TmEUgtj9EK6.7V8ajmQrEH8k8807nabW0E2gxyXgJW3R0AdnuV1d1YZykO5oCu08LAj1M5nedGzSta6PHY9tQefi3l3DQfUEVigiGE2ypQ0!/b&bo=4ADgAQAAAAACZ0I!&rf=viewer_4" alt="image" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif1.gif" alt="科学上网" width="224px">
 
 图片裁剪成长方形
 
-<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/bqQfVz5yrrGYSXMvKr.cqcUBu5J.foI92PW8*2knXoO6SP*b9KOoBiDGurI28MNet6OlqVNDyiBI0FQG8OTHvRZVzOn76HjTDQKOTEMZbwM!/b&bo=4ADgAQAAAAACByI!&rf=viewer_4" alt="image" width="224px">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/gif2.gif" alt="科学上网" width="224px">
 
 使用方式：下载aar包，项目依赖比较快：https://github.com/liaohailong190/CropImageView/tree/master/aar
 
-<img src="http://m.qpic.cn/psc?/V53LDT6S1x8eab2fbMsQ1L1A2v0aC2xi/TmEUgtj9EK6.7V8ajmQrEJ7C4rpyClHjBEWEeVp4IuQV3h*Lt1S.4C1p17FCKDxEtlvla0lYLHsMCNKiT5Ur15p9uhPWRnEaxJvjQVjYG.8!/b&bo=fAf9AwAAAAADJ4c!&rf=viewer_4" alt="image">
+<img src="https://github.com/liaohailong190/CropImageView/blob/master/images/intro.png" alt="科学上网">
 
 在Activity中调用以下代码，调起图片裁剪界面
 ```kotlin
